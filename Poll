@@ -1,0 +1,1231 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Poll Team 12 Survey</title>
+    <meta charset="utf-8">
+    
+        <meta name="twitter:card" content="summary_large_image">
+        <meta property="og:title" content="Poll Team 12" />
+        <meta property="og:image" content="https://www.surveymonkey.com/collect/images/default_custom_meta_image.jpg" />
+        <meta property="og:description" content="Take this survey powered by surveymonkey.com. Create your own surveys for free." />
+    
+    <meta name="keywords" content="questionnaire, questionnaires, questionaire, questionaires, free online survey, free online surveys" />
+    
+        <meta name="description" content="Web survey powered by SurveyMonkey.com. Create your own online survey now with SurveyMonkey's expert certified FREE templates." />
+    
+    
+        <link rel="image_src" href="https://prod.smassets.net/assets/responseweb/smlib.globaltemplates/12.0.5/assets/sm_logo_fb.png" />
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" /><meta http-equiv="content-language" content="en" />
+    
+
+    <link rel="dns-prefetch" href="//www.google-analytics.com" />
+    <link rel="dns-prefetch" href="//www.googletagmanager.com" />
+    <link rel="dns-prefetch" href="//fonts.gstatic.com" />
+    <link rel="dns-prefetch" href="//bam-cell.nr-data.net" />
+    <link rel="dns-prefetch" href="//js-agent.newrelic.com" />
+    <link rel="dns-prefetch" href="//cdn.signalfx.com" />
+    <link rel="preconnect" href="//www.google-analytics.com" />
+    <link rel="preconnect" href="//www.googletagmanager.com" />
+    <link rel="preconnect" href="//fonts.gstatic.com" />
+    <link rel="preconnect" href="//bam-cell.nr-data.net" />
+    <link rel="preconnect" href="//js-agent.newrelic.com" />
+    <link rel="preconnect" href="//cdn.signalfx.com" />
+    <meta name="google-site-verification" content="T6bFSmsnquJ-zUSMV3Kku9K413VJ80KjprWnV_Bv5lw" />
+    <!--[if lt IE 9]>
+        <script src="https://prod.smassets.net/assets/responseweb/smlib.ui-html5-bundle-min.bbd1e809.js" 
+    ></script>
+    <![endif]-->
+    
+    <!--[if (gt IE 8)|(!IE)]><!-->
+    
+      
+    
+
+    <!--<![endif]-->
+    
+    
+        
+          
+            <link type="text/css" rel="stylesheet" href="https://prod.smassets.net/assets/responseweb/responseweb-base-bundle-min.31f3af80.css" 
+     async="true"  />
+          
+          <link type="text/css" rel="stylesheet" href="https://prod.smassets.net/assets/responseweb/smlib.surveytemplates-survey_page-bundle-min.ab763448.css" 
+     async="true"  />
+          
+            <link id="themeCssLink" rel="stylesheet" href="https://secure.surveymonkey.com/r/themes/4.3.61_10292568_palette-1_163c8882-82da-4ee1-9d5e-54c3a991d53d.css" async />
+          
+          <link rel="stylesheet" href="https://cdn.smassets.net/assets/wds/4_20_2/wds-react/wds-react.min.css">
+          <link type="text/css" rel="stylesheet" href="https://prod.smassets.net/assets/responseweb/responseweb-responsewebPkgs-bundle-min.fa300a81.css" 
+     async="true"  />
+        
+    
+    
+    
+    
+    
+    
+    <div data-sm-is-mobile></div>
+<script id="versionChangedModal" type="text/html">
+    <div id="versionChangedModalContainer" class="dialog dialog-b version-dialog">
+        <div class="dialog-title-bar">
+            <h5>
+                <span class="smf-icon notranslate">!</span>
+                 This survey was modified by its creator
+            </h5>
+            <div class="version-warning-text">
+                For questions on the page you’re currently on, you’ll need to re-submit your answers. Your answers for previous pages are saved (you’ll see them when you click OK). Survey creators usually make changes only when it’s vital to the data, so thank you for your patience.
+            </div>
+        </div>
+        <div class="dialog-btn-bar clearfix">
+            <button class="wds-button wds-button--util dialog-close-btn wds-button--sm btn-txt-primary" id="OK-btn" href="#"> OK</button>
+        </div>
+    </div>
+</script>
+    <script type="text/html" id="dialog-title-bar-template">
+    <div class="dialog-title-bar">
+        <h5><%title%></h5>
+    </div>
+</script>
+<script type="text/html" id="dialog-close-btn-template">
+    <a class="dialog-close-btn cbmain" href="#" data-icon="D"></a>
+</script>
+<script type="text/html" id="dialog-close-btn-template-b">
+    <a class="dialog-close-btn cb-dialog-b smf-icon" href="#">å</a>
+</script>
+<script type="text/html" id="dialog-overlay-template">
+    <div class="dialog-overlay<%#isModal%> dialog-overlay-modal<%/isModal%>"></div>
+</script>
+<script type="text/html" id="dialog-container-template">
+    <div class="dialog-container"></div>
+</script>
+    <link type="text/css" rel="stylesheet" href="https://prod.smassets.net/assets/responseweb/responseweb-version-bundle-min.72993a8f.css" 
+     async="true"  />
+    
+<link rel="shortcut icon" href="/favicon1.ico" />
+    <script src="https://prod.smassets.net/assets/responseweb/responseweb-jquery-bundle-min.91443e27.js" 
+    ></script>
+    
+        <script src="https://prod.smassets.net/assets/responseweb/responseweb-response-bundle-min.eb1d3775.js" 
+    ></script>
+    
+    
+    
+    
+    <script>
+        document.domain = 'surveymonkey.com';
+    </script>
+    
+    
+    
+        <script src="https://prod.smassets.net/assets/responseweb/smlib.surveytemplates-sm-react-bundle-min.26c50983.js" 
+    ></script>
+        <script src="https://prod.smassets.net/assets/responseweb/smlib.surveytemplates-sm-polyfill-bundle-min.c105a2db.js" 
+    ></script>
+        <script src="https://prod.smassets.net/assets/responseweb/responseweb-responsewebPkgs_hybrid-bundle-min.229dbb86.js" 
+    ></script>
+    
+    <script src="https://prod.smassets.net/assets/responseweb/responseweb-ui_bundle-bundle-min.a165823c.js" 
+    ></script>
+    <script src="https://cdn.signalfx.com/o11y-gdi-rum/latest/splunk-otel-web.js" crossorigin="anonymous"></script>
+    <script type="text/javascript">
+      window.SplunkRum && window.SplunkRum.init({
+          beaconUrl: 'https://rum-ingest.us1.signalfx.com/v1/rum',
+          rumAuth: 'zc0197kWHeYhZNXuPUlB5w',
+          app: 'responseweb',
+          environment: 'prod'
+        });
+    </script>
+
+    
+    
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NGMP3BG');</script>
+    
+
+    
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NGMP3BG" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    
+<link rel="canonical" href="https://www.surveymonkey.com/r/X66JCN3" /></head>
+
+  <!--[if lt IE 7 ]>
+  <body id="patas" class="translate survey-body ie ie6">
+  <![endif]-->
+  <!--[if IE 7 ]>
+  <body id="patas" class="translate survey-body ie ie7">
+  <![endif]-->
+  <!--[if IE 8 ]>
+  <body id="patas" class="translate survey-body ie ie8">
+  <![endif]-->
+  <!--[if IE 9 ]>
+  <body id="patas" class="translate survey-body ie ie9">
+  <![endif]-->
+  <!--[if gt IE 9]>
+  <body id="patas" class="translate survey-body ie modern-browser">
+  <![endif]-->
+  <!--[if (gt IE 9)|(!IE)]><!-->
+  <body id="patas" class="translate survey-body modern-browser">
+  <!--<![endif]-->
+        
+    
+    
+    
+    
+        
+    
+
+    
+
+
+
+
+
+
+
+
+<!-- Textured Paper, Seamless Paper Texture and Escheresque are from subtlepatterns.com. Made available under CC BY-SA 3.0 License: http://creativecommons.org/licenses/by-sa/3.0/legalcode. -->
+<!-- You cannot remove or modify any notice of copyright, trademark or other proprietary right, or any other copyright management information or metadata from wherever it is embedded in the content. -->
+
+
+
+<main class="v3theme text_center">
+    
+    
+    
+        
+    
+    
+    
+    <article data-page-id="37623513" class="survey-page survey-page-white">
+
+        <header class="survey-page-header">
+            
+                
+
+
+
+
+
+
+
+
+
+
+
+
+<span id="version-changed" style="visibility: hidden" version-changed=False></span>
+
+
+            
+        </header>
+
+        <section class="survey-page-body
+            ">
+            
+                
+    <div class="survey-title-container clearfix survey-title-align-left has-survey-title ">
+        <div class="survey-title-table-wrapper">
+            
+                <table role="presentation" class="survey-title-table table-reset">
+                    <tbody>
+                    <tr>
+                        
+                            <td class="survey-title-cell">
+                                <h1 class="survey-title user-generated notranslate">
+                                        <span class="title-text">
+                                            
+                                                Poll Team 12
+                                            
+                                        </span>
+                                </h1>
+                            </td>
+                        
+                    </tr>
+                    </tbody>
+                </table>
+            
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+
+            <form name="surveyForm"
+                  action=""
+                  method="post"
+                  enctype="multipart/form-data"
+                  novalidate
+                  data-survey-page-form
+            >
+                
+	
+
+
+                
+                    <div class="questions clearfix">
+
+    
+
+        <div class="question-row clearfix 
+                   " ><div data-question-type="single_choice_vertical"
+     data-rq-question-type="single_choice_vertical"
+     class="question-container
+    
+        
+        
+    
+    ">
+
+    <div id="question-field-116202389"
+        data-qnumber="1"
+        data-qdispnumber="1"
+        data-question-id="116202389"
+        class=" question-single-choice-radio qn question vertical"
+        
+        
+    >
+        
+        
+            <h3 class="screenreader-only">Question Title</h3><fieldset class=" question-fieldset" data-radio-button-group >
+                <legend class="question-legend">
+                    
+                    
+                    <h4 id="question-title-116202389" class="
+                     question-title-container ">
+                        <span class="required-asterisk notranslate">
+                                *
+                            </span>
+
+                        
+                            <span class="question-number notranslate">
+                                1<span class="question-dot">.</span>
+                            </span>
+                        
+                        
+                <span class="user-generated notranslate  
+                ">
+                As seen in the problem, when the number of features increases</span>
+                
+                    </h4>
+                </legend>
+                <div class="question-body clearfix notranslate ">
+                    
+    
+    
+        
+            <div class=""
+            >
+        
+        <div class="answer-option-cell">
+            
+    
+    
+    
+
+    
+        
+        
+        
+        
+        
+    
+
+    
+
+    
+
+    
+    
+
+    <div data-sm-radio-button class="radio-button-container " aria-labelledby="question-title-116202389">
+        <input id="116202389_877407401"
+               aria-labelledby="116202389_877407401_label"
+               name="116202389"
+               type="radio"
+               role="radio"
+               class="radio-button-input "
+               value="877407401"
+               aria-checked="{}"
+               
+               
+               
+        />
+        <label data-sm-radio-button-label
+               
+                   id="116202389_877407401_label"
+               
+               class="answer-label radio-button-label no-touch touch-sensitive clearfix
+                
+                
+                "
+               for="116202389_877407401">
+            <span 
+                    
+                    class="radio-button-display "
+                                                >
+                    
+            </span>
+
+            
+                <span class="radio-button-label-text question-body-font-theme user-generated ">
+                    The training error decreases
+                    
+                </span>
+            
+        </label>
+    </div>
+
+        </div>
+        
+    
+        
+        <div class="answer-option-cell">
+            
+    
+    
+    
+
+    
+        
+        
+        
+        
+        
+    
+
+    
+
+    
+
+    
+    
+
+    <div data-sm-radio-button class="radio-button-container " aria-labelledby="question-title-116202389">
+        <input id="116202389_877407402"
+               aria-labelledby="116202389_877407402_label"
+               name="116202389"
+               type="radio"
+               role="radio"
+               class="radio-button-input "
+               value="877407402"
+               aria-checked="{}"
+               
+               
+               
+        />
+        <label data-sm-radio-button-label
+               
+                   id="116202389_877407402_label"
+               
+               class="answer-label radio-button-label no-touch touch-sensitive clearfix
+                
+                
+                "
+               for="116202389_877407402">
+            <span 
+                    
+                    class="radio-button-display "
+                                                >
+                    
+            </span>
+
+            
+                <span class="radio-button-label-text question-body-font-theme user-generated ">
+                    The training error remains the same
+                    
+                </span>
+            
+        </label>
+    </div>
+
+        </div>
+        
+    
+        
+        <div class="answer-option-cell">
+            
+    
+    
+    
+
+    
+        
+        
+        
+        
+        
+    
+
+    
+
+    
+
+    
+    
+
+    <div data-sm-radio-button class="radio-button-container " aria-labelledby="question-title-116202389">
+        <input id="116202389_877407403"
+               aria-labelledby="116202389_877407403_label"
+               name="116202389"
+               type="radio"
+               role="radio"
+               class="radio-button-input "
+               value="877407403"
+               aria-checked="{}"
+               
+               
+               
+        />
+        <label data-sm-radio-button-label
+               
+                   id="116202389_877407403_label"
+               
+               class="answer-label radio-button-label no-touch touch-sensitive clearfix
+                
+                
+                "
+               for="116202389_877407403">
+            <span 
+                    
+                    class="radio-button-display "
+                                                >
+                    
+            </span>
+
+            
+                <span class="radio-button-label-text question-body-font-theme user-generated ">
+                    The training error increases
+                    
+                </span>
+            
+        </label>
+    </div>
+
+        </div>
+        
+            </div>
+        
+    
+    
+    
+
+    
+    
+
+    
+    
+
+    
+
+                </div>
+            </fieldset>
+    </div>
+</div></div><div class="question-row clearfix 
+                   " ><div data-question-type="single_choice_vertical"
+     data-rq-question-type="single_choice_vertical"
+     class="question-container
+    
+        
+        
+    
+    ">
+
+    <div id="question-field-116204290"
+        data-qnumber="2"
+        data-qdispnumber="2"
+        data-question-id="116204290"
+        class=" question-single-choice-radio qn question vertical"
+        
+        
+    >
+        
+        
+            <h3 class="screenreader-only">Question Title</h3><fieldset class=" question-fieldset" data-radio-button-group >
+                <legend class="question-legend">
+                    
+                    
+                    <h4 id="question-title-116204290" class="
+                     question-title-container ">
+                        <span class="required-asterisk notranslate">
+                                *
+                            </span>
+
+                        
+                            <span class="question-number notranslate">
+                                2<span class="question-dot">.</span>
+                            </span>
+                        
+                        
+                <span class="user-generated notranslate  
+                ">
+                Select the correct code to perform best subset selection</span>
+                
+                    </h4>
+                </legend>
+                <div class="question-body clearfix notranslate ">
+                    
+    
+    
+        
+            <div class=""
+            >
+        
+        <div class="answer-option-cell">
+            
+    
+    
+    
+
+    
+        
+        
+        
+        
+        
+    
+
+    
+
+    
+
+    
+    
+
+    <div data-sm-radio-button class="radio-button-container " aria-labelledby="question-title-116204290">
+        <input id="116204290_877420256"
+               aria-labelledby="116204290_877420256_label"
+               name="116204290"
+               type="radio"
+               role="radio"
+               class="radio-button-input "
+               value="877420256"
+               aria-checked="{}"
+               
+               
+               
+        />
+        <label data-sm-radio-button-label
+               
+                   id="116204290_877420256_label"
+               
+               class="answer-label radio-button-label no-touch touch-sensitive clearfix
+                
+                
+                "
+               for="116204290_877420256">
+            <span 
+                    
+                    class="radio-button-display "
+                                                >
+                    
+            </span>
+
+            
+                <span class="radio-button-label-text question-body-font-theme user-generated ">
+                    regfit_best &lt;- bestsubsets(x = x_train, y = y_train, nvmax = 20)
+                    
+                </span>
+            
+        </label>
+    </div>
+
+        </div>
+        
+    
+        
+        <div class="answer-option-cell">
+            
+    
+    
+    
+
+    
+        
+        
+        
+        
+        
+    
+
+    
+
+    
+
+    
+    
+
+    <div data-sm-radio-button class="radio-button-container " aria-labelledby="question-title-116204290">
+        <input id="116204290_877420257"
+               aria-labelledby="116204290_877420257_label"
+               name="116204290"
+               type="radio"
+               role="radio"
+               class="radio-button-input "
+               value="877420257"
+               aria-checked="{}"
+               
+               
+               
+        />
+        <label data-sm-radio-button-label
+               
+                   id="116204290_877420257_label"
+               
+               class="answer-label radio-button-label no-touch touch-sensitive clearfix
+                
+                
+                "
+               for="116204290_877420257">
+            <span 
+                    
+                    class="radio-button-display "
+                                                >
+                    
+            </span>
+
+            
+                <span class="radio-button-label-text question-body-font-theme user-generated ">
+                    regfit_best &lt;- regsubsets(x = x_train, y = y_train, nvmax = 20)
+                    
+                </span>
+            
+        </label>
+    </div>
+
+        </div>
+        
+    
+        
+        <div class="answer-option-cell">
+            
+    
+    
+    
+
+    
+        
+        
+        
+        
+        
+    
+
+    
+
+    
+
+    
+    
+
+    <div data-sm-radio-button class="radio-button-container " aria-labelledby="question-title-116204290">
+        <input id="116204290_877420258"
+               aria-labelledby="116204290_877420258_label"
+               name="116204290"
+               type="radio"
+               role="radio"
+               class="radio-button-input "
+               value="877420258"
+               aria-checked="{}"
+               
+               
+               
+        />
+        <label data-sm-radio-button-label
+               
+                   id="116204290_877420258_label"
+               
+               class="answer-label radio-button-label no-touch touch-sensitive clearfix
+                
+                
+                "
+               for="116204290_877420258">
+            <span 
+                    
+                    class="radio-button-display "
+                                                >
+                    
+            </span>
+
+            
+                <span class="radio-button-label-text question-body-font-theme user-generated ">
+                    regfit_best &lt;- predict(x = x_train, y = y_train, nvmax = 20)
+                    
+                </span>
+            
+        </label>
+    </div>
+
+        </div>
+        
+            </div>
+        
+    
+    
+    
+
+    
+    
+
+    
+    
+
+    
+
+                </div>
+            </fieldset>
+    </div>
+</div></div><div class="question-row clearfix 
+                   " ><div data-question-type="single_choice_vertical"
+     data-rq-question-type="single_choice_vertical"
+     class="question-container
+    
+        
+        
+    
+    ">
+
+    <div id="question-field-116204530"
+        data-qnumber="3"
+        data-qdispnumber="3"
+        data-question-id="116204530"
+        class=" question-single-choice-radio qn question vertical"
+        
+        
+    >
+        
+        
+            <h3 class="screenreader-only">Question Title</h3><fieldset class=" question-fieldset" data-radio-button-group >
+                <legend class="question-legend">
+                    
+                    
+                    <h4 id="question-title-116204530" class="
+                     question-title-container ">
+                        <span class="required-asterisk notranslate">
+                                *
+                            </span>
+
+                        
+                            <span class="question-number notranslate">
+                                3<span class="question-dot">.</span>
+                            </span>
+                        
+                        
+                <span class="user-generated notranslate  
+                ">
+                When MSE is minimized, how many features are used?<img alt="" height="577" src="https://surveymonkey-assets.s3.amazonaws.com/survey/405804603/rte/a2418408-a2bb-47f6-9e8f-28a7afa9ea10.png" width="746"></span>
+                
+                    </h4>
+                </legend>
+                <div class="question-body clearfix notranslate ">
+                    
+    
+    
+        
+            <div class=""
+            >
+        
+        <div class="answer-option-cell">
+            
+    
+    
+    
+
+    
+        
+        
+        
+        
+        
+    
+
+    
+
+    
+
+    
+    
+
+    <div data-sm-radio-button class="radio-button-container " aria-labelledby="question-title-116204530">
+        <input id="116204530_877421771"
+               aria-labelledby="116204530_877421771_label"
+               name="116204530"
+               type="radio"
+               role="radio"
+               class="radio-button-input "
+               value="877421771"
+               aria-checked="{}"
+               
+               
+               
+        />
+        <label data-sm-radio-button-label
+               
+                   id="116204530_877421771_label"
+               
+               class="answer-label radio-button-label no-touch touch-sensitive clearfix
+                
+                
+                "
+               for="116204530_877421771">
+            <span 
+                    
+                    class="radio-button-display "
+                                                >
+                    
+            </span>
+
+            
+                <span class="radio-button-label-text question-body-font-theme user-generated ">
+                    2
+                    
+                </span>
+            
+        </label>
+    </div>
+
+        </div>
+        
+    
+        
+        <div class="answer-option-cell">
+            
+    
+    
+    
+
+    
+        
+        
+        
+        
+        
+    
+
+    
+
+    
+
+    
+    
+
+    <div data-sm-radio-button class="radio-button-container " aria-labelledby="question-title-116204530">
+        <input id="116204530_877421772"
+               aria-labelledby="116204530_877421772_label"
+               name="116204530"
+               type="radio"
+               role="radio"
+               class="radio-button-input "
+               value="877421772"
+               aria-checked="{}"
+               
+               
+               
+        />
+        <label data-sm-radio-button-label
+               
+                   id="116204530_877421772_label"
+               
+               class="answer-label radio-button-label no-touch touch-sensitive clearfix
+                
+                
+                "
+               for="116204530_877421772">
+            <span 
+                    
+                    class="radio-button-display "
+                                                >
+                    
+            </span>
+
+            
+                <span class="radio-button-label-text question-body-font-theme user-generated ">
+                    6
+                    
+                </span>
+            
+        </label>
+    </div>
+
+        </div>
+        
+    
+        
+        <div class="answer-option-cell">
+            
+    
+    
+    
+
+    
+        
+        
+        
+        
+        
+    
+
+    
+
+    
+
+    
+    
+
+    <div data-sm-radio-button class="radio-button-container " aria-labelledby="question-title-116204530">
+        <input id="116204530_877421773"
+               aria-labelledby="116204530_877421773_label"
+               name="116204530"
+               type="radio"
+               role="radio"
+               class="radio-button-input "
+               value="877421773"
+               aria-checked="{}"
+               
+               
+               
+        />
+        <label data-sm-radio-button-label
+               
+                   id="116204530_877421773_label"
+               
+               class="answer-label radio-button-label no-touch touch-sensitive clearfix
+                
+                
+                "
+               for="116204530_877421773">
+            <span 
+                    
+                    class="radio-button-display "
+                                                >
+                    
+            </span>
+
+            
+                <span class="radio-button-label-text question-body-font-theme user-generated ">
+                    18
+                    
+                </span>
+            
+        </label>
+    </div>
+
+        </div>
+        
+            </div>
+        
+    
+    
+    
+
+    
+    
+
+    
+    
+
+    
+
+                </div>
+            </fieldset>
+    </div>
+</div></div>
+
+    
+
+</div>
+                
+
+                
+
+                <div class="survey-submit-actions center-text clearfix">
+                    
+                    
+                        <button type="submit" data-submit-page-button class="btn small done-button survey-page-button user-generated notranslate">
+                            
+                            Done
+                            
+                        </button>
+                    
+                    
+                </div>
+                
+	
+	
+	    <input type="hidden" id="survey_data" name="survey_data" value="c0BEbA7iDy16YeLYMbA3PBT5bPbYsOiR0T2zG9ClbUwFCKJB3738Z_2Frw8PT_2Fxz0L9kAI9GQubx9Ua8EkMI35ObosRFcEm2flocArcTWu0T3ftvB8jPA5QykEG3ONa9Ox_2FEUchlZkccf5wKuGTFwMVYH7hHqkEHWLnTMJ7_2FxGN7Rmhqswqwypp6VYIXiC4y6xybD1_2F3e9EuqxpNAylrASp4cCdTa8Kakm4PBS2FuMn6LME9eM_2BoiunSD0f6QrtZb1exay8k6_2BjFZTR_2FGfE8XdD_2FoYYRFQeJdySlJSCaSwCjERtSpE3qESTjql7Xy3yUwlt0AfAEMszs_2FFNRFOEiTImM7Z5_2BbzZdPa_2BzvKAktpI49O6zYJfZM9pY9JBGM_2BEbRcN1mnx2h9fkpWfhZJj6fcU3kG_2F_2F7QT48Qu1rGAWcUmTIIs1hgh6bi4_2ByD_2BpE0vMQDzupVQMKOFddk1a9HX4j6Hnj9RADzNpy82Oi3G5DR0j8XwdOIX5bUub2XBBLDkdr0Nc3VO0yhf8GHXF42wmmgMyePOGbvrk41xclAHdFl1hWEFzDfHp_2BV_2F7J5PIAOIAg9YazOtj9xTL2MyNRigzYBdQrA_2BuKKD_2B8R6jSjWbiOfcg_3D" />
+        <input type="hidden" data-response-quality id="response_quality_data" name="response_quality_data" value="{}" />
+	    <input type="hidden" id="is_previous" name="is_previous" value="false" />
+	    
+	
+	
+	
+	
+    
+        <input type="hidden" id="disable_survey_buttons_on_submit" name="disable_survey_buttons_on_submit" value=""/>
+    
+
+            </form>
+        </section>
+        
+        
+            <footer class="survey-footer bottom">
+                
+                    
+
+
+    
+    
+    
+        
+    
+    
+            
+        
+    
+<div class="standard-footer notranslate">
+    <p class="survey-footer-title ">
+        Powered by <a target="_blank" href="https://www.surveymonkey.com?ut_source=survey_poweredby_home" class="footer-brand-name survey-footer-link"><img src="https://prod.smassets.net/assets/responseweb/smlib.surveytemplates/4.3.61/assets/sm_logo_footer.svg" alt="SurveyMonkey" class="responsive-logo"/></a>
+    </p>
+    See how easy it is to <a target="_blank" class="survey-footer-link create-a-survey" href="https://www.surveymonkey.com/mp/take-a-tour/?ut_source=survey_poweredby_howitworks">create a survey</a>.
+</div>
+
+
+
+    
+        
+            
+    
+    
+    
+    
+    
+
+    <div class="survey-footer-privacy-link-container">
+        <a target="_blank" class="survey-footer-link survey-footer-privacy-link" href="https://www.surveymonkey.com/mp/legal/privacy/?ut_source=survey_pp">Privacy</a><span class="survey-footer-privacy-text"> & </span><a target="_blank" class="survey-footer-link survey-footer-privacy-link" href="https://www.surveymonkey.com/mp/legal/cookies/?ut_source=survey_pp">Cookie Notice</a>
+    </div>
+
+
+        
+    
+
+
+                
+                
+                
+            </footer>
+        
+        
+    </article>
+    <div class="privacy-policy-icon-super-container">
+        
+    </div>
+</main>
+<div class="survey-under-footer-ie-buffer"></div>
+<script type="text/html" id="a11y-kb-shortcuts">
+    <div id="a11y-kb-shortcuts-container" class="dialog dialog-b a11y--dialog">
+        <section class="kb-shortcuts--container">
+            <h1>Keyboard Shortcuts</h1>
+            <table>
+                <tbody>
+                    <tr>
+                        <th>Date Picker</th>
+                        <th></th>
+                    </tr>
+                    <tr>
+                        <td class="kb-command">
+                            <span>&lt;Esc&gt;</span> :
+                        </td>
+                        <td>Open/Close date picker</td>
+                    </tr>
+                    <tr>
+                        <td class="kb-command">
+                            <span>&lt;Left&gt; or &lt;Right&gt;</span> :
+                        </td>
+                        <td>Move date back or forward by one day</td>
+                    </tr>
+                    <tr>
+                        <td class="kb-command">
+                            <span>&lt;Up&gt; or &lt;Down&gt;</span> :
+                        </td>
+                        <td>Move date back or forward by one week</td>
+                    </tr>
+                    <tr>
+                        <td class="kb-command">
+                            <span>&lt;Shift&gt;</span>
+                            <span>+</span>
+                            <span>&lt;Up&gt;</span> :
+                        </td>
+                        <td>Move date back by one month</td>
+                    </tr>
+                    <tr>
+                        <td class="kb-command">
+                            <span>&lt;Shift&gt;</span>
+                            <span>+</span>
+                            <span>&lt;Down&gt;</span> :
+                        </td>
+                        <td>Move date forward by one month</td>
+                    </tr>
+                    <tr>
+                        <td class="kb-command">
+                            <span>&lt;Ctrl&gt;</span>
+                            <span>+</span>
+                            <span>&lt;Shift&gt;</span>
+                            <span>+</span>
+                            <span>&lt;Up&gt;</span> :
+                        </td>
+                        <td>Move date back by one year</td>
+                    </tr>
+                    <tr>
+                        <td class="kb-command">
+                            <span>&lt;Ctrl&gt;</span>
+                            <span>+</span>
+                            <span>&lt;Shift&gt;</span>
+                            <span>+</span>
+                            <span>&lt;Down&gt;</span> :
+                        </td>
+                        <td>Move date forward by one year</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+    </div>
+</script>
+<script type="text/html" id="dialog-title-bar-template">
+    <div class="dialog-title-bar">
+        <h5><%title%></h5>
+    </div>
+</script>
+<script type="text/html" id="dialog-close-btn-template">
+    <a class="dialog-close-btn cbmain" href="#" data-icon="D"></a>
+</script>
+<script type="text/html" id="dialog-close-btn-template-b">
+    <a class="dialog-close-btn cb-dialog-b smf-icon" href="#">å</a>
+</script>
+<script type="text/html" id="dialog-overlay-template">
+    <div class="dialog-overlay<%#isModal%> dialog-overlay-modal<%/isModal%>"></div>
+</script>
+<script type="text/html" id="dialog-container-template">
+    <div class="dialog-container"></div>
+</script>
+
+        
+          <p id='hcmtest' class='screen-reader-text high-contrast-test'>T</p>
+        
+        
+        <noscript><style type="text/css" media="all">form {display:none;} </style><div style="text-align:center;">Javascript is required for this site to function, please enable.</div></noscript>
+  </body>
+</html>
